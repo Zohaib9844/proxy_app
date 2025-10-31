@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1761722385687,
+    "amount": 400,
+    "description": "nashta at quetta",
+    "category": "friends",
+    "date": "2025-10-29T07:19:45.687Z"
+  },
+  {
+    "id": 1761722849141,
+    "amount": 330,
+    "description": "veggies",
+    "category": "house",
+    "date": "2025-10-29T07:27:29.141Z"
+  },
+  {
+    "id": 1761724285030,
+    "amount": 1500,
+    "description": "internet",
+    "category": "house",
+    "date": "2025-10-29T07:51:25.030Z"
+  },
+  {
+    "id": 1761725589362,
+    "amount": 100,
+    "description": "Tea",
+    "category": "Food",
+    "date": "2025-10-29T08:13:09.362Z"
+  }
+]

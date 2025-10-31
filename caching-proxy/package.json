@@ -1,0 +1,21 @@
+{
+  "name": "caching-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "caching-proxy": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.2",
+    "express": "^5.1.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2"
+  }
+}
